@@ -1,6 +1,7 @@
 <h1>ourI</h1>
 <p>ourI is a project you can use for your needs with the source code being free</p>
 <p>It is a blog for photographers where they can post and express their emotions and their talents</p>
+<p>--------------------------------------------------------------------------------------------------------</p>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
